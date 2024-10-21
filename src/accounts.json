@@ -1,0 +1,19 @@
+[ {
+  "client" : {
+    "name" : "antenor",
+    "email" : "antenor@gmail.com",
+    "cpf" : "12312312312",
+    "password" : "123"
+  },
+  "numberAccount" : 1,
+  "accountBalance" : 5500.0
+}, {
+  "client" : {
+    "name" : "arthur",
+    "email" : "arthur@gmail.com",
+    "cpf" : "12334556767",
+    "password" : "123"
+  },
+  "numberAccount" : 2,
+  "accountBalance" : 3500.0
+} ]
